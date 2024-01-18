@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shivanshu Shukla</h1>
 <h3 align="center">Curious Mind, Data Scientist Heart: Embracing the AI/ML Odyssey</h3>
 
-<img align="right" alt="coding" width="400" src="![image](https://github.com/shivanshu-reck/shivanshu-reck/assets/121628003/94e8bbaf-8722-4488-808f-0729dc6f879c)
-">
+<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/5a40be99b5384a02b2ea628ca7b699d350ffef54b234f5bd09639a3f761c077d/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a313237322f312a5a53566d57476363317765454e6230536861775778772e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivanshu-reck&label=Profile%20views&color=0e75b6&style=flat" alt="shivanshu-reck" /> </p>
 
@@ -31,3 +30,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivanshu-reck&show_icons=true&locale=en" alt="shivanshu-reck" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivanshu-reck&" alt="shivanshu-reck" /></p>
+
