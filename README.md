@@ -1,3 +1,4 @@
+![logo](https://github.com/shivanshu-reck/shivanshu-reck/blob/main/IMG_20230921_020301.jpg)
 <h1 align="center">Hi 👋, I'm Shivanshu Shukla</h1>
 <h3 align="center">Curious Mind, Data Scientist Heart: Embracing the AI/ML Odyssey</h3>
 
